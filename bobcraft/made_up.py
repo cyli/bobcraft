@@ -1,5 +1,7 @@
 """
-World of Bobcraft ways to input data
+World of Bobcraft ways to input data.  In the slides, none of these methods were
+ever implemented but they were imported as part of the implementation of adding
+factors (see ``mfa.py``)
 """
 from __future__ import print_function
 
