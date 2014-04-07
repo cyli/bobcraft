@@ -1,0 +1,6 @@
+bcrypt
+otpauth
+qrcode
+pillow
+twilio
+yubico-client
