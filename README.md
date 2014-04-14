@@ -1,4 +1,6 @@
-This repository is a toy application contains all the example code used in the multifactor-from-scratch part of the World of BobCraft slides.
+Code from PyCon 2014 talk on multifactor authentication: http://blargh.ying.li/slides/pycon2014/#/1
+
+This repository is a toy application contains all the example code used in the multifactor-from-scratch part of the [World of BobCraft slides](http://blargh.ying.li/slides/pycon2014/#/1).
 
 It also includes a little command-line runner that demos adding a user, adding a factor/removing a factor from a user's account, and logging in.  The `made_up` module from the slides, for which no implementation was ever provided, is actually implemented here.
 
